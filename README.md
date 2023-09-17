@@ -7,11 +7,11 @@ This is a Movies App built using Next.js, React and [The Movie Database (TMDB)](
 
 ## Installation 
 
-Clone and install the dependencies for `next-movies` locally:
+Clone and install the dependencies for `movie_discovery` locally:
 
 ```bash 
   git clone https://github.com/Ebube2701/movie_discovery.git
-  cd next-movies 
+  cd movie_discovery 
   npm install
 ```
 
